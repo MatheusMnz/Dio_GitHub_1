@@ -1,0 +1,61 @@
+<section>
+<header>
+<article>
+<aside>
+<footer>
+<h1>-<h6>
+
+<a href= " " target = "_blank"> texto </a>
+<a href= "mailto:matheus.mnz@gmail.com</a>
+
+class
+
+<img src ="foto.jpg" alt ="foto aleatoria">
+tinypng - comprimir suas fotos.
+
+<ul> Lista nao ordenada
+	item 1
+	item 2
+<ol> Lista ordenada
+	1. item1
+	2. item2
+
+.past{
+    padding: 10px(sup. e inf) 5px(esq. direi.)
+    padding: 10px 5px 8px 0px (sup,inf,esq,dir)
+    padding-top(etc):
+
+background-color: green; #008800;
+
+border
+border-top-width: 
+border-top-color:
+border-top-style:
+border-radius: px ou %
+
+
+font-size:
+font-style:
+font-family:
+font-weight: normal, bold;
+
+text-transform: uppercase
+		lowecase
+		capitalize
+
+text-decoration: underline
+		  overline
+		  line-through
+
+
+width
+Height
+
+Max-width
+Max-height
+
+Margin:auto
+
+Text-align: left,center,justify;
+
+list-style-image
